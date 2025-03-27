@@ -4,7 +4,7 @@ This is a _reference project_ for how to integrate [Unity as a Library](https://
 
 ![Screen recording](recording.gif)
 
-## Requirements
+## Requirements 
 
 - Physical device with iOS 17.0 or later.
 - Unity Editor 2022.3.52f1 - latest LTS as of Nov 6, 2024 - with iOS build support installed in Unity Hub.
